@@ -42,7 +42,7 @@ The chatbot's logic is orchestrated by the `AdRecommender` class:
 
 ## 🧪 Usage
 
-To run the chatbot, simply execute the Python script from your terminal:
+To run the chatbot, simply execute the Python script from your terminal after creating your .env file:
 
 ```bash
 python ad_recommender.py
