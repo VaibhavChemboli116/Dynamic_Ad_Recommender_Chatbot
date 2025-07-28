@@ -1,4 +1,4 @@
-# 🧠 Dynamic Ad-Recommender Chatbot
+# Dynamic Ad-Recommender Chatbot
 
 This project is a Python-based chatbot that dynamically injects relevant, sponsored product advertisements into a conversation. It uses **GPT-4o-mini** to maintain a natural dialogue and to periodically judge the topical coherence of the conversation. If the conversation remains on a consistent topic, the chatbot uses **SerpApi** to find a relevant product and seamlessly appends it to its response.
 
